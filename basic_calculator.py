@@ -1,5 +1,5 @@
 # Repository: python_honeypie
-# Name: Basic Calculator
+# Name: basic_calculator.py
 # Creator: emanuelectric
 # Basic calculator
 
